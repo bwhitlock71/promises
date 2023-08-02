@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+  }
+  
+button {
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+}
+  
+  
+#cards {
+    margin-top: 25px;
+}
+  
+#cards > img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
